@@ -1,0 +1,16 @@
+C:\Dev\OnlineBookSales-master\OnlineBookSales\bin\Release\netcoreapp2.1\OnlineBookSales.API.deps.json
+C:\Dev\OnlineBookSales-master\OnlineBookSales\bin\Release\netcoreapp2.1\OnlineBookSales.API.runtimeconfig.json
+C:\Dev\OnlineBookSales-master\OnlineBookSales\bin\Release\netcoreapp2.1\OnlineBookSales.API.runtimeconfig.dev.json
+C:\Dev\OnlineBookSales-master\OnlineBookSales\bin\Release\netcoreapp2.1\OnlineBookSales.API.dll
+C:\Dev\OnlineBookSales-master\OnlineBookSales\bin\Release\netcoreapp2.1\OnlineBookSales.API.pdb
+C:\Dev\OnlineBookSales-master\OnlineBookSales\bin\Release\netcoreapp2.1\OnlineBookSales.Core.dll
+C:\Dev\OnlineBookSales-master\OnlineBookSales\bin\Release\netcoreapp2.1\OnlineBookSales.Infrastructure.dll
+C:\Dev\OnlineBookSales-master\OnlineBookSales\bin\Release\netcoreapp2.1\OnlineBookSales.Infrastructure.pdb
+C:\Dev\OnlineBookSales-master\OnlineBookSales\bin\Release\netcoreapp2.1\OnlineBookSales.Core.pdb
+C:\Dev\OnlineBookSales-master\OnlineBookSales\obj\Release\netcoreapp2.1\OnlineBookSales.API.csprojAssemblyReference.cache
+C:\Dev\OnlineBookSales-master\OnlineBookSales\obj\Release\netcoreapp2.1\OnlineBookSales.API.csproj.CoreCompileInputs.cache
+C:\Dev\OnlineBookSales-master\OnlineBookSales\obj\Release\netcoreapp2.1\OnlineBookSales.API.AssemblyInfoInputs.cache
+C:\Dev\OnlineBookSales-master\OnlineBookSales\obj\Release\netcoreapp2.1\OnlineBookSales.API.AssemblyInfo.cs
+C:\Dev\OnlineBookSales-master\OnlineBookSales\obj\Release\netcoreapp2.1\OnlineBookSales.API.csproj.CopyComplete
+C:\Dev\OnlineBookSales-master\OnlineBookSales\obj\Release\netcoreapp2.1\OnlineBookSales.API.dll
+C:\Dev\OnlineBookSales-master\OnlineBookSales\obj\Release\netcoreapp2.1\OnlineBookSales.API.pdb

@@ -1,0 +1,9 @@
+C:\Dev\OnlineBookSales-master\OnlineBookSales.Core\bin\Release\netcoreapp2.1\OnlineBookSales.Core.deps.json
+C:\Dev\OnlineBookSales-master\OnlineBookSales.Core\bin\Release\netcoreapp2.1\OnlineBookSales.Core.dll
+C:\Dev\OnlineBookSales-master\OnlineBookSales.Core\bin\Release\netcoreapp2.1\OnlineBookSales.Core.pdb
+C:\Dev\OnlineBookSales-master\OnlineBookSales.Core\obj\Release\netcoreapp2.1\OnlineBookSales.Core.csprojAssemblyReference.cache
+C:\Dev\OnlineBookSales-master\OnlineBookSales.Core\obj\Release\netcoreapp2.1\OnlineBookSales.Core.csproj.CoreCompileInputs.cache
+C:\Dev\OnlineBookSales-master\OnlineBookSales.Core\obj\Release\netcoreapp2.1\OnlineBookSales.Core.AssemblyInfoInputs.cache
+C:\Dev\OnlineBookSales-master\OnlineBookSales.Core\obj\Release\netcoreapp2.1\OnlineBookSales.Core.AssemblyInfo.cs
+C:\Dev\OnlineBookSales-master\OnlineBookSales.Core\obj\Release\netcoreapp2.1\OnlineBookSales.Core.dll
+C:\Dev\OnlineBookSales-master\OnlineBookSales.Core\obj\Release\netcoreapp2.1\OnlineBookSales.Core.pdb

@@ -1,0 +1,5 @@
+C:\Dev\OnlineBookSales-master\OnlineBookSales
+--output-path=obj\Release\netcoreapp2.1\
+--application-name=OnlineBookSales.API
+--content-root=C:\Dev\OnlineBookSales-master\OnlineBookSales
+--file=
